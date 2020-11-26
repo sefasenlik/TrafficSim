@@ -1,2 +1,1 @@
-# TrafficSim
-Traffic Simulation Repo of Senior Project
+# Sandbox of Sefa
