@@ -1,0 +1,14 @@
+# Select all objects
+bpy.ops.object.select_all(action='SELECT')
+
+# Add object to the selected set
+bpy.data.objects["Cube1"].select_set(True)      
+
+# Add the object to an object collection that contains the active object
+bpy.ops.collection.objects_add_active(collection="Misc")
+
+--------------------------------------------------------------------------------
+
+# Controls
+
+Numpad-.    Reset the view onto that object.
