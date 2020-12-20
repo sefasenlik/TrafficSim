@@ -1,8 +1,8 @@
 # TrafficSim
-Traffic Simulation Repo of Senior Project
+Realistic Traffic Simulation (RTS) Repository _(Graduation Project of Egemen Güngör & Sefa Şenlik)_
 
-### First Version Features (v0.0.0.0.1)
+### v0.0.2 Features
 - 2 lanes
-- Straight road
+- ~~Straight~~ _Curved_ road
 - Max. 20 cars
 - *Lane-changing*
