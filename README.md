@@ -1,3 +1,5 @@
+![RTS Logo](https://i.ibb.co/nR1318Q/RTSLogo-Web.png "Realistic Traffic Simulation (RTS) Logo")
+
 # TrafficSim
 Realistic Traffic Simulation (RTS) Repository _(Graduation Project of Egemen Güngör & Sefa Şenlik)_
 
