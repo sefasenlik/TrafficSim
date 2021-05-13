@@ -3,8 +3,15 @@
 # TrafficSim
 Realistic Traffic Simulations (RTS) Repository _(Graduation Project of Egemen Güngör & Sefa Şenlik)_
 
-### v0.1 Features
-- Multiple Lanes
-- Curved road with _parallel lanes_
-- A couple of dozens of cars
+### v0.3 Features
 - **Lane-changing**
+- Curved road with _parallel lanes_
+- 4 different vehicle models
+- 3 different driver types
+- Vehicle labeling
+- Chase camera
+- Traffic lights
+- Road imperfections
+- Day/night options
+- Multiple Lanes
+- A couple of dozens of cars
