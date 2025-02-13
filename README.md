@@ -104,3 +104,8 @@ The project consists of three main components:
 
 - Egemen Güngör
 - Sefa Şenlik
+
+## Screenshots
+![RTS - Accident](https://i.ibb.co/YFW4QnFh/Accident.png "Sedan driver goes past an accident")
+![RTS - Day/Night Difference]([https://i.ibb.co/vvvhSZkV/Day-Night-Difference.png "Day/night lighting difference")
+![RTS - Traffic Light](https://i.ibb.co/2rbMYzX/RedLight.png "Traffic light goes from from green to red, van driver stops")
