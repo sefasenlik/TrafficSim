@@ -106,6 +106,9 @@ The project consists of three main components:
 - Sefa Şenlik
 
 ## Screenshots
-![RTS - Accident](https://i.ibb.co/YFW4QnFh/Accident.png "Sedan driver goes past an accident")
-![RTS - Day/Night Difference]([https://i.ibb.co/vvvhSZkV/Day-Night-Difference.png "Day/night lighting difference")
-![RTS - Traffic Light](https://i.ibb.co/2rbMYzX/RedLight.png "Traffic light goes from from green to red, van driver stops")
+<img src="https://i.ibb.co/YFW4QnFh/Accident.png" alt="RTS - Sedan driver goes past an accident" width="400"/>
+<img src="https://i.ibb.co/2rbMYzX/RedLight.png" alt="RTS - Traffic light goes from from green to red, van driver stops" width="400"/>
+<img src="https://i.ibb.co/vvvhSZkV/Day-Night-Difference.png" alt="RTS - Day/night lighting difference" width="400"/>
+
+### Project Report
+[Link to project report](https://drive.google.com/file/d/1XCrX2pGwSVxUeq4A54cHhtripyDDSJ1R/view?usp=sharing)
